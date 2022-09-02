@@ -1,5 +1,6 @@
 # SwitcherThemesAngular
-
+![](./src/result-switch_01.jpg)
+![](./src/result-switch_02.jpg)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
